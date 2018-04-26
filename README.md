@@ -3,7 +3,7 @@
 
 This Universal Task allows to Monitor a value in a Column in a schema of a SQLSERVER database. If the given value is inserted into the database, the Task goes to success. It is also possible to monitor multiple values within a database table row. 
 
-# 1.	Disclaimer
+# 1	Disclaimer
 
 No support and no warranty are provided by Stonebranch GmbH for this document and the related Universal Task. The use of this document and the related Universal Task is on your own risk.
 
@@ -11,7 +11,7 @@ Before using this task in a production system, please perform extensive testing.
 
 Stonebranch GmbH assumes no liability for damage caused by the performance of the Universal Tasks
 
-# 2.	Introduction
+# 2	Introduction
 
 The here described task has been created to demonstrate how a value in a database column could be monitored in a SQLSERVER database. If you have an Oracle or MySQL database, the python script in the Universal Template could be adjusted to support other databases. 
 
@@ -84,7 +84,7 @@ Go to “All Tasks” and load via the Import functionality the Universal Task c
    
    ![](images/image2.png)
    
-# 4.	Universal Task Configuration
+# 4	Universal Task Configuration
 
 **1.	Activate: Resolvable Credentials in Universal Automation Center:**
 
@@ -110,7 +110,7 @@ Image 6
 
    ![](images/image6.png)
 
-# 5.	How to try it out
+# 5	How to try it out
 
 **Steps:**
 
@@ -131,7 +131,7 @@ Image 8:
 
    ![](images/image8.png)
 
-# 6.	Test Cases
+# 6	Test Cases
 
 The following basic test cases has been performed:
 
@@ -140,7 +140,7 @@ Image 9:
    ![](images/image9.png)
 
 
-# 7.	Document References
+# 7	Document References
 
 This document references the following documents:
 
