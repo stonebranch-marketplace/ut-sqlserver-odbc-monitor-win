@@ -1,4 +1,4 @@
-# ut-sqlserver-odbc-monitor-win
+# ut-sqlserver-odbc-monitor-windows
 # Abstract:
 
 This Universal Task allows to Monitor a value in a Column in a schema of a SQLSERVER database. If the given value is inserted into the database, the Task goes to success. It is also possible to monitor multiple values within a database table row. 
